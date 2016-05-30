@@ -7,7 +7,7 @@ Imports Sagede.OfficeLine.Engine
 
     <System.Runtime.InteropServices.ComVisible(True)> _
     Public Function swiTest() As String
-        swiTest = "Test SL"
+        swiTest = "Test MG"
     End Function
 
     Public Sub New()
